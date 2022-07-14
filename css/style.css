@@ -191,9 +191,6 @@ body {
 /* Наша команда */
 
 .section.team {
-  /* position: absolute;
-  width: 1600px;
-  height: 648px; */
   background-color: var(--secondary-background-color);
 }
 
